@@ -1,4 +1,6 @@
-.notification {
-  margin-top: 20px;
-  color: #81a4cd;
+.Notification {
+  color: #ccc;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
 }

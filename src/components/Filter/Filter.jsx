@@ -3,12 +3,12 @@ import styles from './Filter.module.css';
 
 export function Filter({ onFilterInputChange, value }) {
   return (
-    <label className={styles.filterLabel}>
-      Find contacts by name
+    <label className={styles.FilterLabel}>
       <input
-        className={styles.filterInput}
+        className={styles.FilterInput}
         type="text"
         name="filter"
+        placeholder="find contacts by name"
         value={value}
         onChange={onFilterInputChange}
       ></input>
