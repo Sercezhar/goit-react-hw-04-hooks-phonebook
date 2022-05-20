@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-04-hooks-phonebook/static/css/main.77d86724.css",
-    "main.js": "/goit-react-hw-04-hooks-phonebook/static/js/main.a9f0a9b1.js",
+    "main.css": "/goit-react-hw-04-hooks-phonebook/static/css/main.1b72b305.css",
+    "main.js": "/goit-react-hw-04-hooks-phonebook/static/js/main.918b9889.js",
     "index.html": "/goit-react-hw-04-hooks-phonebook/index.html",
-    "static/media/DeleteIcon.svg": "/goit-react-hw-04-hooks-phonebook/static/media/DeleteIcon.bed97f24ba365906a1a68bc5300bd181.svg",
-    "main.77d86724.css.map": "/goit-react-hw-04-hooks-phonebook/static/css/main.77d86724.css.map",
-    "main.a9f0a9b1.js.map": "/goit-react-hw-04-hooks-phonebook/static/js/main.a9f0a9b1.js.map"
+    "main.1b72b305.css.map": "/goit-react-hw-04-hooks-phonebook/static/css/main.1b72b305.css.map",
+    "main.918b9889.js.map": "/goit-react-hw-04-hooks-phonebook/static/js/main.918b9889.js.map"
   },
   "entrypoints": [
-    "static/css/main.77d86724.css",
-    "static/js/main.a9f0a9b1.js"
+    "static/css/main.1b72b305.css",
+    "static/js/main.918b9889.js"
   ]
 }
